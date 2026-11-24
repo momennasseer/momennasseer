@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="150" viewBox="0 0 800 150">
+  <defs>
+    <linearGradient id="kg" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="rgba(88,28,135,0.18)"/>
+      <stop offset="50%" stop-color="rgba(157,23,77,0.12)"/>
+      <stop offset="100%" stop-color="rgba(30,64,175,0.14)"/>
+    </linearGradient>
+  </defs>
+  <rect width="800" height="150" rx="14" fill="#0d1117"/>
+  <rect width="800" height="150" rx="14" fill="url(#kg)"/>
+  <rect x="0.5" y="0.5" width="799" height="149" rx="14" fill="none" stroke="#21262d"/>
+  <text x="34" y="38" font-family="-apple-system, Segoe UI, Helvetica, Arial, sans-serif" font-size="12" letter-spacing="4" fill="#7d8590">S T A C K</text>
+  <g font-family="-apple-system, Segoe UI, Helvetica, Arial, sans-serif" font-size="15" font-weight="500">
+    <rect x="34" y="60" width="96" height="38" rx="19" fill="rgba(255,255,255,0.04)" stroke="rgba(97,218,251,0.4)"/>
+    <text x="82" y="84" text-anchor="middle" fill="#61dafb">React</text>
+    <rect x="142" y="60" width="110" height="38" rx="19" fill="rgba(255,255,255,0.04)" stroke="rgba(140,200,75,0.4)"/>
+    <text x="197" y="84" text-anchor="middle" fill="#8cc84b">Node.js</text>
+    <rect x="264" y="60" width="126" height="38" rx="19" fill="rgba(255,255,255,0.04)" stroke="rgba(247,223,30,0.35)"/>
+    <text x="327" y="84" text-anchor="middle" fill="#f7df1e">JavaScript</text>
+    <rect x="402" y="60" width="100" height="38" rx="19" fill="rgba(255,255,255,0.04)" stroke="rgba(94,151,208,0.45)"/>
+    <text x="452" y="84" text-anchor="middle" fill="#5e97d0">MySQL</text>
+    <rect x="514" y="60" width="104" height="38" rx="19" fill="rgba(255,255,255,0.04)" stroke="rgba(227,79,38,0.45)"/>
+    <text x="566" y="84" text-anchor="middle" fill="#e34f26">HTML5</text>
+    <rect x="630" y="60" width="94" height="38" rx="19" fill="rgba(255,255,255,0.04)" stroke="rgba(21,114,182,0.5)"/>
+    <text x="677" y="84" text-anchor="middle" fill="#4c9fd8">CSS3</text>
+  </g>
+</svg>
