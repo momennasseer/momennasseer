@@ -2,21 +2,16 @@
   <img src="./banner.svg" alt="Momen Nasser - Full-Stack Web Developer" width="100%"/>
 </div>
 
-## Building modern, responsive web applications.
+<div align="center">
+  <img src="./statement.svg" alt="Building modern, responsive web applications. Open to freelance projects." width="100%"/>
+</div>
 
-Open to freelance projects.
+<div align="center">
+  <img src="./stack.svg" alt="Stack: React, Node.js, JavaScript, MySQL, HTML5, CSS3" width="100%"/>
+</div>
 
-### Stack
-
-![React](https://img.shields.io/badge/React-0d1117?style=for-the-badge&logo=react&logoColor=61dafb)
-![Node.js](https://img.shields.io/badge/Node.js-0d1117?style=for-the-badge&logo=nodedotjs&logoColor=8cc84b)
-![JavaScript](https://img.shields.io/badge/JavaScript-0d1117?style=for-the-badge&logo=javascript&logoColor=f7df1e)
-![MySQL](https://img.shields.io/badge/MySQL-0d1117?style=for-the-badge&logo=mysql&logoColor=5e97d0)
-![HTML5](https://img.shields.io/badge/HTML5-0d1117?style=for-the-badge&logo=html5&logoColor=e34f26)
-![CSS3](https://img.shields.io/badge/CSS3-0d1117?style=for-the-badge&logo=css3&logoColor=1572b6)
-
-### Get in touch
-
-[![GitHub](https://img.shields.io/badge/GitHub-21262d?style=for-the-badge&logo=github&logoColor=e6edf3)](https://github.com/momennasseer)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0a66c2?style=for-the-badge&logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in/momen-nasseer-318740363/)
-[![Email](https://img.shields.io/badge/Email-d93a4a?style=for-the-badge&logo=gmail&logoColor=ffffff)](mailto:momennasseer@gmail.com)
+<div align="center">
+  <a href="https://github.com/momennasseer"><img src="./btn-github.svg" alt="GitHub"/></a>
+  <a href="https://www.linkedin.com/in/momen-nasseer-318740363/"><img src="./btn-linkedin.svg" alt="LinkedIn"/></a>
+  <a href="mailto:momennasseer@gmail.com"><img src="./btn-email.svg" alt="Email"/></a>
+</div>
